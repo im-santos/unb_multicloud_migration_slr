@@ -30,17 +30,17 @@ We search the documents with have in your Title, Abstract, or Keyword the follow
 We include papers based on their Include Criteria:
 <br>
 IC1: The documents must address the following subjects in their title, abstract, or keywords: 
-        - Multi-cloud  
-        - OR Cloud-Native 
-        - OR Cloud 
-        - OR Private cloud 
-        - OR Hybrid Cloud 
-        - OR Migration Between Clouds 
-        - OR Challenges of Deployment in Clouds 
-        - OR Migration from Legacy Systems to Cloud 
-        - OR Transformation from Legacy Systems to Cloud 
-        - OR Challenges of System Deployments in Cloud Architecture 
-        - OR Microservices Architecture.
+        - Multi-cloud   <br>
+        - OR Cloud-Native  <br>
+        - OR Cloud  <br>
+        - OR Private cloud  <br>
+        - OR Hybrid Cloud  <br>
+        - OR Migration Between Clouds  <br>
+        - OR Challenges of Deployment in Clouds  <br>
+        - OR Migration from Legacy Systems to Cloud  <br>
+        - OR Transformation from Legacy Systems to Cloud  <br>
+        - OR Challenges of System Deployments in Cloud Architecture  <br>
+        - OR Microservices Architecture.  <br>
 <br>
 IC2: The publications should be written in English.
 
