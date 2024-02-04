@@ -15,7 +15,13 @@
 
 ## Applying Paper Filters: Include and Exclude Criteria
 
-We excluded papers based on their titles using the Exclusion Criteria: (1) "Improper source," (2) "Repeated," (3) "Studies not written in English," and (4) "Papers with less than three pages."
+We excluded papers based on their titles using the Exclusion Criteria: 
+<br>
+(1) "Improper source," <br>
+(2) "Repeated," <br>
+(3) "Studies not written in English," and  <br>
+(4) "Papers with less than three pages." <br>
+
 <br>
 In the next phase, we read the abstracts and keywords of the collected papers. We removed those that the researched subject distanced from our research question. Moreover, we exclude works that:
 <br>
