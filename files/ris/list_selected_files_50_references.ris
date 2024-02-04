@@ -1,0 +1,726 @@
+TY  - CONF
+AB  - Due to the fast growth, Cloud Computing has become a non-transparent market with providers and customers willing to adopt it. Furthermore, many offers only partially meet customers requirements and it is not clear how exactly Cloud Computing influences the IT. That makes it difficult for customers to plan migration projects and implement sustainable Cloud solutions. There are important factors and considerations for the decision to adopt Cloud Computing. The current studies and research in this field can be summarized to focus around the questions why adoption of Cloud Computing would occur, how much adoption would take place or how it would be adopted. But the adoption requirements covering all three service models (SaaS, PaaS, IaaS) have barely been discussed in literature so far. A detailed understanding of Cloud requirements enables customers to adopt Cloud solutions efficiently. Therefore this paper aims to contribute a framework addressing the adoption and selection of Cloud services. A Cloud Requirement Framework (CRF) was developed, concentrating on relevant requirements for adopting Cloud services targeting all three service models. To develop this framework we followed a design science approach and conducted a systematic literature review, an extensive market analysis and an evaluation based on expert interviews.
+AU  - Repschlaeger, J.
+AU  - Zarnekow, R.
+AU  - Wind, S.
+AU  - Turowski, K.
+PY  - 2012
+SN  - 9788488971548
+TI  - Cloud requirement framework: Requirements and evaluation criteria to adopt Cloud solutions
+T2  - ECIS 2012 - Proceedings of the 20th European Conference on Information Systems
+ER  -
+TY  - JOUR
+AB  - Today, most of the organizations trust on their age old legacy applications, to support their business-critical systems. However, there are several critical concerns, as maintainability and scalability issues, associated with the legacy system. In this background, cloud services offer a more agile and cost effective platform, to support business applications and IT infrastructure. As the adoption of cloud services has been increasing recently and so has been the academic research in cloud migration. However, there is a genuine need of secondary study to further strengthen this research. The primary objective of this paper is to scientifically and systematically identify, categorize and compare the existing research work in the area of legacy to cloud migration. The paper has also endeavored to consolidate the research on Security issues, which is prime factor hindering the adoption of cloud through classifying the studies on secure cloud migration. SLR (Systematic Literature Review) of thirty selected papers, published from 2009 to 2014 was conducted to properly understand the nuances of the security framework. To categorize the selected studies, authors have proposed a conceptual model for cloud migration which has resulted in a resource base of existing solutions for cloud migration. This study concludes that cloud migration research is in seminal stage but simultaneously it is also evolving and maturing, with increasing participation from academics and industry alike. The paper also identifies the need for a secure migration model, which can fortify organization’s trust into cloud migration and facilitate necessary tool support to automate the migration process.
+AU  - Rai, R.
+AU  - Sahoo, G.
+AU  - Mehfuz, S.
+DO  - 10.1186/s40064-015-0962-2
+IS  - 1
+PY  - 2015
+SP  - 1
+EP  - 12
+TI  - Exploring the factors influencing the cloud computing adoption: a systematic study on cloud migration
+T2  - SpringerPlus
+VL  - 4
+ER  -
+TY  - BOOK
+AB  - Migrating to the Service Cloud Paradigm implies the migration of legacy software systems to a service-oriented architecture with deployment in the cloud. Although this specific software modernization paradigm promises numerous strategic and operational advantages, it poses also many complex organizational and technical challenges, among which is the lack of mature processes, methods and techniques. This paper examines the questions of whether agile methods and techniques could be scaled to fit the migration to the Service Cloud Paradigm and how they could help overcoming the challenges of software modernization in this specific context. The research methodology presented here first extracts the challenges of the migration to Service Cloud Paradigm through a systematic literature review and then, using expert judgment, evaluates how different agile techniques, taken from Scrum and Extreme Programming (XP), could address the identified challenges. As a result, a ranked list of applicable agile techniques is presented and suggestions for their adoption in software modernization projects are drawn. © 2013 Springer-Verlag.
+AU  - Stavru, S.
+AU  - Krasteva, I.
+AU  - Ilieva, S.
+DO  - 10.1007/978-3-642-38333-5_10
+PY  - 2013
+SN  - 9783642383328
+SP  - 77
+EP  - 91
+TI  - Challenges for migrating to the service cloud paradigm: An agile perspective
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 7652 LNCS
+ER  -
+TY  - CONF
+AB  - Cloud ERP solutions allow organizations of all sizes to support and coordinate key business processes by leveraging virtualization. Nevertheless, the implementation of cloud ERPs is not straightforward and there are significant issues that need to be taken into account when launching cloud ERP initiatives. To explore these issues, we conducted an in-depth systematic review of related research literature. We identified six key issues related to cloud ERP implementation: a) functionality fit, b) integration, c) data migration, d) organizational change, e) data security, and f) reliability. Furthermore, we mapped these issues to the different sizes of organizations. Based on this review, we identify two sociotechnical concerns that influence cloud ERP implementation: linking to the installed base to ensure continuity with the past and sustainability in the future. We argue that these two concerns have different implications for organizations of different sizes and we call for further empirical research.
+AU  - SØrheller, V.U.
+AU  - HØvik, E.J.
+AU  - Hustad, E.
+AU  - Vassilakopoulou, P.
+DO  - 10.1016/j.procs.2018.10.065
+PY  - 2018
+SP  - 470
+EP  - 477
+TI  - Implementing cloud ERP solutions: A review of sociotechnical concerns
+T2  - Procedia Computer Science
+VL  - 138
+ER  -
+TY  - BOOK
+AB  - Context: The appealing features of Cloud computing has attracted the attention of the research and the industry due to the possibility of providing a customizable and resourceful platform to deploy software. There is a myriad of competing providers and available services that can provide organizations the access to computing services without owning the corresponding infrastructure. Goal: Identify the opportunities to migrate to the cloud, the challenges, difficulties and factors that affect the cost-benefit relationship of such adoption. Method: In our previous work, we performed a systematic review to identify the approaches adopted by organizations to migrate to cloud computing and their perception of the cost-benefit of this migration. In this paper, we extended our previous work through a new search in the selected repositories to identify studies published from June 2015 to June 2016. Results: We concluded from the collected data that a significant part of the companies perceived inclination towards the innovative adoption process influenced by technological, organizational and environmental contexts. Conclusion: The results in this systematic literature review can help the development of guidelines to support newcomers companies to adopt and migrate to the cloud, how the cost-benefit relationship can be evaluated as well as the selection of providers.
+AU  - de Paula, A.C.M.
+AU  - de Carneiro, G.F.
+DO  - 10.1007/978-3-319-56390-9_11
+PY  - 2016
+SN  - 9783319563893
+SP  - 222
+EP  - 243
+TI  - A systematic literature review on cloud computing adoption and migration
+T2  - Communications in Computer and Information Science
+VL  - 703
+ER  -
+TY  - BOOK
+AB  - Cloud computing is one of the most sought after fields in the world of computing and IT. This paper is an extensive survey intended to highlighting the importance of cloud computing in the business world and how it has benefited major companies as well as the potential ones. The different service models and key features along with database services play a major role. Virtualization, its features, and its role in making cloud computing possible are extensively discussed. However, like any other technology, even the cloud technology faces a vast array of issues that need to be attained. Some of the major issues like resource scheduling, security, and interoperability pertaining to cloud are reviewed here, along with possible ways of tackling them. A comprehensive study on the different fields to be explored in the study of cloud computing is presented here. We have done a systematic literature review of 62 selected papers and believe that this paper will help the new researchers in cloud computing area.
+AU  - Gourisaria, M.K.
+AU  - Samanta, A.
+AU  - Saha, A.
+AU  - Patra, S.S.
+AU  - Khilar, P.M.
+DO  - 10.1007/978-981-15-1097-7_6
+PY  - 2020
+SN  - 9789811510960
+SP  - 53
+EP  - 78
+TI  - An Extensive Review on Cloud Computing
+T2  - Advances in Intelligent Systems and Computing
+VL  - 1079
+ER  -
+TY  - JOUR
+AB  - Purpose: Despite more than two decades of experience regarding the adoption and implementation of enterprise resource planning (ERP) systems in organizations, ERPs success is questionable. Though ERPs success stories are published in past research studies, the failure rate of ERP systems is relatively high. The purpose of this study was to find issues and challenges and assess the degree of criticality of these issues/challenges faced by organizations during ERP implementation. Design/methodology/approach: For doing systematic review/research synthesis systematic literature review (SLR) was carried out considering research studies published within the time period, i.e. 1999-2018. Three major steps such as planning, conducting and reporting were followed to proceed further in this study. This study attempted to accomplish a critical review of 53 studies out of 103 studies identified, which were published in reputable journals to synthesize the existing literature in the ERP domain. The studies selected have almost addressed different challenges/issues faced by small and large organizations during ERP implementation. Findings: Research synthesis/SLR led to the identification of 31 issues/challenges, which may be termed as most critical based on their occurrence/frequency in past studies included. The topmost ten issues/challenges amongst 31 identified include top management approach, change management, training and development, effective communication, system integration, business process reengineering, consultants/vendors selection, project management, project team formation, team empowerment/skilled people and data conversing/migration. However, other issues/challenges identified such as security risks/data security, cloud awareness, functionality limitations, service level agreements and subscription expenses are more related to cloud ERPs. Originality/value: The current study is unique in its kind, focusing on the issues and challenges faced by organization during implementing ERP projects. Moreover, this study contributes to understanding and further analyzing management capabilities for developing remedial measures while planning the implementation of an enterprise system in their organizations prior to the occurrence of different issues and challenges ahead. The study also led to understanding and explaining socio-technical issues and their severity.
+AU  - Mahmood, F.
+AU  - Khan, A.Z.
+AU  - Bokhari, R.H.
+DO  - 10.1108/K-12-2018-0699
+IS  - 3
+PY  - 2020
+SP  - 629
+EP  - 659
+TI  - ERP issues and challenges: a research synthesis
+T2  - Kybernetes
+VL  - 49
+ER  -
+TY  - JOUR
+AB  - The software industry widely used monolithic system architecture in the past to build enterprise-grade software. Such software is deployed on the self-managed on-premises servers. Monolithic architecture systems introduced many difficulties when transitioning to cloud platforms and new technologies due to scalability, flexibility, performance issues, and lower business value. As a result, people are bound to consider the new software paradigm with the separation of concern concept. Microservice architecture was introduced to the world as an emerging software architecture style for overcoming monolithic architectural limitations. This paper illustrates the taxonomical classification of microservice architecture and a systematic review of the current state of the microservice architecture by comparing it to the past and future using the PRISMA model. Conference papers and journal papers the base on the defined keywords from well-known research publishers. The results showcase that most researchers and enterprise-grade companies use microservice architecture to develop cloud-native applications. On the contrary, they are struggling with certain performance issues in the overall application. The acquired results can facilitate the researchers and architects in the software engineering domain who aspire to be concerned with new technology trends about service-oriented architecture and cloud-native development.
+AU  - Weerasinghe, S.
+AU  - Perera, I.
+DO  - 10.14445/22315381/IJETT-V70I3P225
+IS  - 3
+PY  - 2022
+SP  - 222
+EP  - 233
+TI  - Taxonomical Classification and Systematic Review on Microservices
+T2  - International Journal of Engineering Trends and Technology
+VL  - 70
+ER  -
+TY  - BOOK
+AB  - Addressing the management challenges for a multitude of distributed cloud architectures, we focus on the three complementary cloud management problems of predictive elasticity, admission control, and placement (or scheduling) of virtual machines. As these problems are intrinsically intertwined we also propose an approach to optimize the overall system behavior by policy-tuning for the tools handling each of them. Moreover, in order to facilitate the execution of some of the management decisions, we also propose new algorithms for live migration of virtual machines with very high workload and/or over low-bandwidth networks, using techniques such as caching, compression, and prioritization of memory pages. © 2011 Springer-Verlag.
+AU  - Elmroth, E.
+AU  - Tordsson, J.
+AU  - Hernández, F.
+AU  - Ali-Eldin, A.
+AU  - Svärd, P.
+AU  - Sedaghat, M.
+AU  - Li, W.
+DO  - 10.1007/978-3-642-24755-2_4
+PY  - 2011
+SN  - 9783642247545
+SP  - 38
+EP  - 49
+TI  - Self-management challenges for multi-cloud architectures (invited paper)
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 6994 LNCS
+ER  -
+TY  - JOUR
+AB  - Despite the compelling case for moving towards cloud computing, the upstream oil & gas industry faces several technical challenges-most notably, a pronounced emphasis on data security, a reliance on extremely large data sets, and significant legacy investments in information technology infrastructure-that make a full migration to the public cloud difficult at present. Private and hybrid cloud solutions have consequently emerged within the industry to yield as much benefit from cloud-based technologies as possible while working within these constraints. This paper argues, however, that the move to private and hybrid clouds will very likely prove only to be a temporary stepping stone in the industry's technological evolution. By presenting evidence from other market sectors that have faced similar challenges in their journey to the cloud, we propose that enabling technologies and conditions will probably fall into place in a way that makes the public cloud a far more attractive option for the upstream oil & gas industry in the years ahead. The paper concludes with a discussion about the implications of this projected shift towards the public cloud, and calls for more of the industry's services to be offered through cloud-based "apps.". © 2013 Elsevier Ltd.
+AU  - Perrons, R.K.
+AU  - Hems, A.
+DO  - 10.1016/j.enpol.2013.01.016
+PY  - 2013
+SP  - 732
+EP  - 737
+TI  - Cloud computing in the upstream oil & gas industry: A proposed way forward
+T2  - Energy Policy
+VL  - 56
+ER  -
+TY  - CONF
+AB  - The adaptive management of complex applications deployed across multiple heterogeneous PaaS platforms is one of the problems that have emerged with the cloud revolution. The ongoing EU research project SeaClouds aims at providing seamless adaptive multi-cloud management of complex applications by supporting the distribution, monitoring and migration of application modules over multiple heterogeneous PaaS platforms. In this paper we present context, motivations and objectives of SeaClouds, its relation with other cloud initiatives, and its initial architecture. Copyright © 2014 SCITEPRESS - Science and Technology Publications.
+AU  - Brogi, A.
+AU  - Carrasco, J.
+AU  - Cubo, J.
+AU  - D'Andria, F.
+AU  - Ibrahim, A.
+AU  - Pimentel, E.
+AU  - Soldani, J.
+DO  - 10.5220/0004979507580763
+PY  - 2014
+SN  - 9789897580192
+SP  - 758
+EP  - 763
+TI  - EU project SeaClouds adaptive management of service-based applications across multiple clouds
+T2  - CLOSER 2014 - Proceedings of the 4th International Conference on Cloud Computing and Services Science
+UR  - http://www.scielo.edu.uy/scielo.php?script=sci_arttext&pid=S0717-50002015000100002
+ER  -
+TY  - CONF
+AB  - The advent of cloud computing is an opportunity to companies offering client-server services to migrate to a Software as a Service (SaaS) kind of business model. This kind of business model is based on having companies offering services on the cloud accessible by means of web interfaces and protocols. This comes in opposition to the traditional (client-server) model in which software packages need to be downloaded, installed and maintained directly by clients. Therefore, the SaaS could allow the definition of high level services, removing the burden of configuring and managing servers from clients. In the point of view of the service providers, this transition is not easy. Concerns such as vendor neutral design, scalability, (self-)adaptation and monitoring of running applications need to be dealt with. The MODAClouds FP7 EU project proposes to deal with all these challenges and it is going to use ModelioSaaS as a use case. ModelioSaaS is a software as a service product to be offered by SOFTEAM by means of the migration of its existing client-server based products. The main contributions of this paper are therefore providing an account, from the industrial point of view, of the context surrounding this migration and the constraints it needs to comply to. These constraints will be presented in the form of functional and non-functional requirements along with their rationale. This paper presents our current view of the architecture of ModelioSaaS that will enable this move and the gaps that we intend to fill be means of the MODAClouds platform. © 2013 IEEE.
+AU  - Da Silva, M.A.A.
+AU  - Abhervé, A.
+AU  - Sadovykh, A.
+DO  - 10.1109/SYNASC.2013.67
+PY  - 2013
+SN  - 9781479930357
+SP  - 462
+EP  - 469
+TI  - From the desktop to the multi-clouds: The case of ModelioSaaS
+T2  - Proceedings - 15th International Symposium on Symbolic and Numeric Algorithms for Scientific Computing, SYNASC 2013
+ER  -
+TY  - CONF
+AB  - How to deploy and manage, in an efficient and adaptive way, complex applications over multiple heterogeneous PaaS platforms is one of the problems that have emerged with the cloud revolution. The recently started EU research project SeaClouds aims at enabling a seamless adaptive multi-cloud management of complex applications by supporting the distribution, monitoring and migration of application modules over multiple heterogeneous PaaS platforms. In this paper, after presenting context, motivations and objectives of the project, we position SeaClouds with respect to related cloud initiatives and discuss its initial architecture.
+AU  - Brogi, A.
+AU  - Carrasco, J.
+AU  - Cubo, J.
+AU  - D'Andria, F.
+AU  - Ibrahim, A.
+AU  - Pimentel, E.
+AU  - Soldani, J.
+PY  - 2014
+SN  - 9789562362474
+SP  - 95
+EP  - 108
+TI  - SeaClouds: Seamless adaptive multi-cloud management of service-based applications
+T2  - CIBSE 2014: Proceedings of the 17th Ibero-American Conference Software Engineering
+ER  -
+TY  - CONF
+AB  - With the promise of providing flexible and elastic computing resources on demand, the cloud computing has been attracting enterprises and individuals to migrate workloads in the legacy environment to the public/private/hybrid clouds. Also, cloud customers want to migrate between cloud providers with different requirements such as cost, performance, and manageability. However the workload migration is often interpreted as an image migration or re-installation/data copying as the exact snapshot of the source machine. Also the various cloud platforms and service models are rarely taken into consideration during the migration analytics. Therefore, although the expectation has risen with various requirements on the target cloud platforms and environments, the cloud migration techniques have not provided enough options that can satisfy the various requirements. In this paper we propose a model to tackle the migration challenges that transform one resource into same or another resource in hybrid clouds. We formulate the problem as a constraint satisfaction problem, and iteratively decompose the server components and consolidate the servers. The ultimate goal is to recommend the optimal target cloud platform and environment with the minimum cost. Through the evaluation of the proposed model using the real enterprise dataset (up to 2012 machines), we prove that the proposed model satisfies the goal. We show that when migrating into virtualized cloud environments, the thorough resource planning can reduce 16% of current resources, about 5%-10% servers can be consolidated, and more than 60% servers are possible candidates for server decomposition.
+AU  - Hwang, J.
+DO  - 10.1109/CNSM.2015.7367350
+PY  - 2015
+SN  - 9783901882777
+SP  - 144
+EP  - 152
+TI  - Computing resource transformation, consolidation and decomposition in hybrid clouds
+T2  - Proceedings of the 11th International Conference on Network and Service Management, CNSM 2015
+ER  -
+TY  - BOOK
+AB  - Cloud migration is about moving an on-premise software system into the cloud. Many approaches exist that describe the technical migration analysis and the architectural migration. Equally, cloud cost models have been investigated. What we aim to investigate here is to link architecture and software utilisation to costing and business models. We specifically look at software vendors that use the cloud to provide their solutions to customers. They might face the challenges to migrate an in-house developed and provided product onto a cloud IaaS or PaaS platform, while also mapping a licensing model onto a cloud monetisation model. We provide here an experience report. This is based on experience with five migration case studies. We discuss the migration process under consideration of cost aspects, covering both income and expenses in the cloud in relation to the cloud delivery model chosen. We focus on one of the case studies to illustrate the concepts and observations.
+AU  - Fowley, F.
+AU  - Pahl, C.
+DO  - 10.1007/978-3-319-72125-5_7
+PY  - 2018
+SN  - 9783319721248
+SP  - 91
+EP  - 103
+TI  - Cloud migration architecture and pricing – Mapping a licensing business model for software vendors to a SaaS business model
+T2  - Communications in Computer and Information Science
+VL  - 707
+ER  -
+TY  - CONF
+AB  - A hybrid cloud is a cloud computing environment in which an organization provides and manages some internal resources (private cloud) while the other resources are provisioned externally (public cloud). Rapid deployment of hybrid clouds for utility, cost, effectiveness and flexibility has made it necessary to assure the security and privacy of hybrid clouds as it transcends different domains. Further, successful hybrid cloud implementation requires a well-structured architecture supporting the functionalities of both private and public clouds and the seamless transitions between them. One of the challenges in a hybrid cloud is securing resource access, in particular, enforcing that the owner's policy never gets violated even when the data gets consumed and processed in multiple domains. Existing mechanisms for achieving this, including industry standards such as XACML, SAML, and OAuth, are vulnerable to indirect information leaks as they do not keep track of information flow. The Readers-Writers Flow Model (RWFM) is a novel security model with an intuitive security policy that tracks and controls the flow of information in a decentralized system. In this paper, we present an approach to building a hybrid cloud that preserves the given security and privacy policy by integrating an RWFM security module into a cloud service manager. An advantage of RWFM is that it provides a uniform solution for securing various kinds of hybrid cloud architectures ranging from the simple pairwise federation to the complex interclouds, and supporting varying degrees of flexibility in workload placement ranging from a simple static placement to fully dynamic migration. Further, RWFM framework is forensic-ready by design, because the labels of data and services readily provide the necessary forensic information.
+AU  - Shyamasundar, R.K.
+AU  - Kumar, N.V.N.
+AU  - Rajarajan, M.
+DO  - 10.1109/HPCC-SmartCity-DSS.2016.0201
+PY  - 2017
+SN  - 9781509042968
+SP  - 1410
+EP  - 1417
+TI  - Information-flow control for building security and privacy preserving hybrid clouds
+T2  - Proceedings - 18th IEEE International Conference on High Performance Computing and Communications, 14th IEEE International Conference on Smart City and 2nd IEEE International Conference on Data Science and Systems, HPCC/SmartCity/DSS 2016
+ER  -
+TY  - CONF
+AB  - Hybrid cloud-based deployment is a trend in cloud computing which enables enterprise to benefit from cloud infrastructures while honoring privacy restrictions on some services. Enterprise application migration is an effective way to improve the efficiency of using the cloud infrastructures. However, it is a challenging problem to decide which parts of the applications to migrate and where to migrate. In this paper, we focus on the problem of planning the migration of enterprise applications in hybrid cloud infrastructures. Unlike previous studies, we consider a general hybrid cloud architecture that involves multiple public clouds rather than only one. Our aim is to maximize the enterprise cost reduction under the constraint of user experience in terms of response time. We first formulate the application migration problem as an optimization problem. Aware of its NP-hardness, we design an efficient migration framework to approximate the optimum for a large problem size. First, we leverage the application characteristic to reduce the scale of the problem by dividing it into multiple smaller subproblems. Then, an efficient algorithm based on dynamic programming is proposed to solve the small scale subproblems. Finally, we construct a feasible solution to the original problem. Simulation results demonstrate that our framework can bring significant benefits to enterprises.
+AU  - Zhou, B.
+AU  - Zhang, F.
+AU  - Wu, J.
+AU  - Liu, Z.
+DO  - 10.1109/ICDCSW.2017.13
+PY  - 2017
+SN  - 9781538632925
+SP  - 270
+EP  - 274
+TI  - Cost Reduction in Hybrid Clouds for Enterprise Computing
+T2  - Proceedings - IEEE 37th International Conference on Distributed Computing Systems Workshops, ICDCSW 2017
+UR  - https://ieeexplore.ieee.org/document/7979828
+ER  -
+TY  - BOOK
+AB  - Key challenges in managing healthcare applications lie in the area of compliance of the deployment environments and the usage of hybrid clouds. Our approach, as reported in this paper, utilizes two innovative concepts: compliance conformance validation and environment reconstruction supported by a Platform as a Service (PaaS) environment performing healthcare application automated migrations in hybrid clouds. We show how the migration process is conducted with dynamic reconstruction of the application dependencies on the PaaS services. For system administrators, this approach can lead to significant time savings on migrations to compliant environments. Implementation details and experimental results are presented to validate our methodology.
+AU  - Sailer, A.
+AU  - Yang, B.
+AU  - Jain, S.
+AU  - Tomala-Reyes, A.E.
+AU  - Singh, M.
+AU  - Ramnath, A.
+DO  - 10.1007/978-3-030-03596-9_52
+PY  - 2018
+SN  - 9783030035952
+SP  - 725
+EP  - 739
+TI  - Healthcare application migration in compliant hybrid clouds
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 11236 LNCS
+ER  -
+TY  - JOUR
+AB  - This paper presents an iterative mathematical decision model for organizations to evaluate whether to invest in establishing information technology (IT) infrastructure on-premises or outsourcing IT services on a multicloud environment. This is because a single cloud cannot cover all types of users’ functional/nonfunctional requirements, in addition to several drawbacks such as resource limitation, vendor lock-in, and prone to failure. On the other hand, multicloud brings several merits such as vendor lock-in avoidance, system fault tolerance, cost reduction, and better quality of service. The biggest challenge is in selecting an optimal web service composition in the ever increasing multicloud market in which each provider has its own pricing schemes and delivers variation in the service security level. In this regard, we embed a module in the cloud broker to log service downtime and different attacks to measure the security risk. If security tenets, namely, security service level agreement, such as availability, integrity, and confidentiality for mission-critical applications, are targeted by cybersecurity attacks, it causes disruption in business continuity, leading to financial losses or even business failure. To address this issue, our decision model extends the cost model by using the cost present value concept and the risk model by using the advanced mean failure cost concept, which are derived from the embedded module to quantify cloud competencies. Then, the cloud economic problem is transformed into a bioptimization problem, which minimizes cost and security risks simultaneously. To deal with the combinatorial problem, we extended a genetic algorithm to find a Pareto set of optimal solutions. To reach a concrete result and to illustrate the effectiveness of the decision model, we conducted different scenarios and a small-to-medium business IT development for a 5-year investment as a case study. The result of different implementation shows that multicloud is a promising and reliable solution against IT on-premises deployment.
+AU  - Hosseini Shirvani, M.
+AU  - Rahmani, A.M.
+AU  - Sahafi, A.
+DO  - 10.1002/spe.2528
+IS  - 3
+PY  - 2018
+SP  - 449
+EP  - 485
+TI  - An iterative mathematical decision model for cloud migration: A cost and security risk approach
+T2  - Software - Practice and Experience
+VL  - 48
+ER  -
+TY  - CONF
+AB  - Cloud migration is concerned with moving an on-premise software system into the cloud. In this paper, we focus on software producers adopting the cloud to provide their solutions to enterprise customers. Their challenge is to migrate a software product, developed in-house and traditionally delivered on-premise, to an Infrastructure-as-a-Service or Platform-as-a-Service solution, while also mapping an existing traditional licensing model on to a cloud monetization model. The analysis of relevant cost types and factors of cloud computing generate relevant information for the software producers when deciding to adopt cloud computing, and defining software pricing. We present an integrated framework for informing cloud monetization based on operational cost factors for migrating to the cloud and test it in a real-life case study. Differences between basic virtualization of the software product and using fully cloud-native platform services for re-architecting the product in question are discussed.
+AU  - Rosati, P.
+AU  - Fowley, F.
+AU  - Pahl, C.
+AU  - Taibi, D.
+AU  - Lynn, T.
+DO  - 10.5220/0006679303640375
+PY  - 2018
+SN  - 9789897582950
+SP  - 364
+EP  - 375
+TI  - Making the cloud work for software producers: Linking architecture, operating cost and revenue
+T2  - CLOSER 2018 - Proceedings of the 8th International Conference on Cloud Computing and Services Science
+VL  - 2018-Janua
+ER  -
+TY  - CONF
+AB  - Cloud adoption is gaining lots of momentum across the globe and enterprise are focussing not only migration on to cloud but also on developing cloud native application. There are lots of focuses on reducing and optimizing resources and hence developing application in a serverless fashion is going to be the key in the industry. Many organizations are working on application modernization and developing distributed application and hence microservice is the key focus area in converting their monolithic into microservices and use containers for easy portability across the platform and makes it more platform neutral. There are high elements of focus on whether to go for serverless or Microservice mode and should we use containers for deployment is the key debate among the people who are working in this area and are still not clear which way to go forward in the given situation. In this article we would like to explore and discuss about each technology in details and analyse the advantage and challenge of these emerging areas and suggest the ideal way to move forward in cloud.
+AU  - Jambunathan, B.
+AU  - Yoganathan, K.
+DO  - 10.1109/ICCTCT.2018.8551035
+PY  - 2018
+SN  - 9781538637012
+TI  - Architecture Decision on using Microservices or Serverless Functions with Containers
+T2  - Proceedings of the 2018 International Conference on Current Trends towards Converging Technologies, ICCTCT 2018
+UR  - https://ieeexplore-ieee-org.ez54.periodicos.capes.gov.br/document/8551035
+ER  -
+TY  - JOUR
+AB  - The evolution of cloud infrastructures toward hybrid cloud models enables innovative business outcomes, twin turbo drivers by the requirement of greater IT agility and overall cost-containment pressures. Hybrid cloud solutions combine the capabilities of both public clouds along with those of on-premises private cloud environments. In order to key benefit with hybrid cloud model, there are different security issues that have been shown to address. In this paper, we explain security issues in detail such as to maintain trust and authenticity of information, Identity management and compliance which is influencing in enterprises due to migration of IT cloud technologies are increasingly turning to hybrid clouds. Here, work outcomes with comparative study of different existing solution and target the common problems domains and security threads.
+AU  - Raza, M.
+AU  - Imtiaz, A.
+AU  - Shoaib, U.
+DO  - 10.14569/IJACSA.2019.0100346
+IS  - 3
+PY  - 2019
+SP  - 353
+EP  - 357
+TI  - A review on security issues and their impact on hybrid cloud computing environment
+T2  - International Journal of Advanced Computer Science and Applications
+VL  - 10
+ER  -
+TY  - JOUR
+AB  - With the emergence of cloud-native applications, the question arises how existing, often monolithic, applications can be migrated to this new paradigm. The main migration challenges are the decomposition of an application into fine-grained components and the introduction of cloud computing paradigms. With complex existing applications the migration is difficult. A structured and tool-supported approach would facilitate the migration process, which is why this paper proposes a model-driven engineering based approach. As a basis, this paper derives and presents requirements for such an approach from the literature on the one hand and a migration case study on the other. The requirements are specifically targeted at the necessary models, but also consider the overall approach. The necessities for the realization of a model-driven cloud-native migration approach are shown and remaining challenges are discussed.
+AU  - Lichtenthäler, R.
+AU  - Prechtl, M.
+AU  - Schwille, C.
+AU  - Schwartz, T.
+AU  - Cezanne, P.
+AU  - Wirtz, G.
+DO  - 10.1007/s00450-019-00414-9
+IS  - 1-2
+PY  - 2020
+SP  - 89
+EP  - 100
+TI  - Requirements for a model-driven cloud-native migration of monolithic web-based applications
+T2  - Software-Intensive Cyber-Physical Systems
+VL  - 35
+ER  -
+TY  - JOUR
+AB  - Intranets & Intranet-wares have become a central junction/platform for implementing the organization’s specific work culture like computing, communication and collaboration. In order to ensure smooth and effective communication, computing and collaboration among employees, intranets play an important role. For vertical and horizontal management, we use intranet-wares for directing, reporting, collaborating, socializing, communicating and meeting or discussing the professional and social issues. Today, cloud-based computing, communication, and collaboration have created new frontiers and emerging paradigms towards re-engineering of work cultures in the organizations. In order to enhance the performance with extended features, next-generation computing, communication, and collaboration the intranet needs redesign and migration strategy over alternative technology platforms. This research paper tries to answer the research questions that how an alternative technology strategy or pathway can be explored for enhancing the performance and extending the features of the exiting designs of educational Intranets. Further; how an on-premise intranet can be migrated over cloud platforms with enhanced performance and extended/add-on features. After analysis of collected facts, understanding the issues, challenges and limitations of the existing state of art intranets, a strong need for performance enhancement and add on features was observed for Intranets. The study deeply investigated and analyzed the issues, challenges and limitations i.e. features and performances of the current state of the art of the intranets in general and on-premise Intranet of AMU in specific. Finally, an Intranet Migration Strategy Model over Hybrid Cloud was designed and developed using SaaS (i.e. AMU CloudNet). In this study, the Interact Intranet was used for designing and demonstrating the functional prototype of intranet show that how computing, communication and collaboration services can be enhanced with anytime, anywhere and boundary-less access.
+AU  - Tona, A.A.
+AU  - Sharma, D.P.
+DO  - 10.5815/ijmecs.2020.05.05
+IS  - 5
+PY  - 2020
+SP  - 55
+EP  - 63
+TI  - DPS-AA: Intranet migration strategy model for clouds
+T2  - International Journal of Modern Education and Computer Science
+VL  - 12
+ER  -
+TY  - BOOK
+AB  - Cloud computing has come a long way to become an established platform to host the ICT infrastructure. Almost all of the Fortune 500 companies have cloud presence. And the latest announcement of Pentagon to offer a contract worth USD 10 billion to migrate to cloud shows the confidence level in the cloud infrastructure. Migration to cloud needs careful planning, strong business case, credible migration strategy, and robust migration frameworks. This paper reviews the area of cloud computing migration frameworks. It utilizes the co-word analysis technique of bibliometric or science mapping. The keywords of 299 research articles downloaded from the Web of science database have been analyzed. A 10 elements cloud migration tuple has been developed. Additionally, this paper gives cloud computing technology trends that have evolved to address the challenges of latency and jitter, context awareness, Internet of Things, voluminous data, and mobility support. The results of this paper will help in understanding the cloud computing and migration thereof.
+AU  - Ahmad, N.
+AU  - Qamar, S.
+AU  - Khan, N.
+AU  - Naim, A.
+AU  - Hussain, M.R.
+AU  - Naveed, Q.N.
+AU  - Mahmood, M.R.
+DO  - 10.1007/978-981-15-3172-9_69
+PY  - 2020
+SP  - 737
+EP  - 745
+TI  - Cloud Computing Trends and Cloud Migration Tuple
+T2  - Lecture Notes in Networks and Systems
+VL  - 107
+ER  -
+TY  - JOUR
+AB  - Cloud computing has invaded our lives so beautifully, that it is time to make cloud more productive. What makes Cloud computing novel is the possibility of an almost immediate resizing of resources on a pay-as-you-go usage model. With companies moving forward with various cloud initiatives, cloud consumers are discouraged from relinquishing their control of the infrastructure to the cloud providers. The rivalry among cloud providers to stay competitive in the market makes it necessary to lock-in its customers, and therefore customers cannot migrate easily to another due to non-interoperable APIs (Application Programming Interface), portability and migration issues. In addition, today's cloud users are mobile devices and consuming a cloud service onto mobile device poses another set of risks. One way to handle this complexity is to devise an intermediary which can take care of the heterogeneity at the cloud and mobile level, and ensure a multi-cloud deployment of application by taking advantage of the best features from different vendors simultaneously. Thus, this paper is a sincere initiative to understand the problem beneath multi-cloud solutions and their embrace for the mobile world. Hence, the following paper begins with a broad coverage of existing work, gives an outline of a multi-cloud middleware, and discusses existing issues with API heterogeneity which is the prime point of concern in the vendor lock-in issue.
+AU  - Ravi, N.
+AU  - Thangarathinam, M.
+DO  - 10.1142/S0218843019500126
+IS  - 4
+PY  - 2019
+TI  - Emergence of Middleware to Mitigate the Challenges of Multi-Cloud Solutions onto Mobile Devices
+T2  - International Journal of Cooperative Information Systems
+VL  - 28
+ER  -
+TY  - BOOK
+AB  - Migrating applications to the cloud is rapidly increasing in many organizations as it enables them to take advantages of the cloud, such as the lower costs and accessibility of data. Moreover, such organizations typically try to avoid sticking to a single cloud provider and rather prefer to be able to spread out their applications across different providers. However, there are many challenges in achieving this. First, many of the applications that are required to be moved to the cloud might be legacy applications that do not have good documentation, and so it is not trivial to even assess whether it is feasible to move them to the cloud or not. Moreover, such legacy applications might need a significant architecture overhaul to achieve the task of moving them to the cloud. Large client may have significant percentage of applications in this category. So, one has to evaluate cloud feasibility and understand whether there is a need to re-architect application based on what services providers are able to offer. Second, clients usually define multiple features, encryption/security level, and other service level requirements they expect in the providers they will migrate each of their applications to. Thus, choosing the right providers for different application is another challenging task here. In this work-in-progress paper, we present a novel methodology for preparing such a cloud migration solution, where we perform text mining on application data to evaluate cloud-migration feasibility and then recommend the optimal solution using a mathematical optimization model. We illustrate our approach with an example use case.
+AU  - Asthana, S.
+AU  - Megahed, A.
+AU  - Iyoob, I.
+DO  - 10.1007/978-3-030-76352-7_44
+PY  - 2021
+SN  - 9783030763510
+SP  - 485
+EP  - 494
+TI  - Multi-cloud Solution Design for Migrating a Portfolio of Applications to the Cloud
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 12632 LNCS
+ER  -
+TY  - JOUR
+AB  - Universities face many challenges such as budget costs, licensing, and software and hardware management in their activities related to information and communications technology (ICT). Through overcoming these challenges, universities may deliver smart, secure, and fluent services for their instructors, students, researchers, information technologies (IT) staff, and administrators. Cloud computing can be a solution to these challenges. The transition to cloud computing in universities is an important step in terms of online education, economic crisis, globalization, and high and constantly changing requirements, especially in the COVID-19 period. Cloud computing can play a very important role in quickly solving the problems faced by universities during this coronavirus period. The purpose of this research was to determine the position of universities in Turkey within the context of cloud computing and to present an abstract hybrid cloud framework for these universities. Descriptive method and survey technique were used in the research. SPSS program was used to analyze the data. Percentage, frequency, and chi-square statistics were used in the analysis process. As a result of the research, the existing conditions and problems in the use of the cloud service model in universities were tried to be identified and a road map for solving these problems was drawn up. In this context, a hybrid framework for adopting cloud computing in universities for them to overcome their identified challenges was proposed. The results are primarily intended to provide a guideline to universities in cloud computing adoption.
+AU  - Aydin, H.
+DO  - 10.1177/21582440211030280
+IS  - 3
+PY  - 2021
+TI  - A Study of Cloud Computing Adoption in Universities as a Guideline to Cloud Migration
+T2  - SAGE Open
+VL  - 11
+ER  -
+TY  - CONF
+AB  - It was common that software vendors sell licenses to their clients to use software products, such as Enterprise Resource Planning, which are deployed as a monolithic entity on clients' premises. Moreover, many clients, especially big organizations, often require software products to be customized for their specific needs before deployment on premises. While software vendors are trying to migrate their monolithic software products to Cloud-native Software-as-a-Service (SaaS), they face two big challenges that this paper aims at addressing: 1) How to migrate their exclusive monoliths to multi-tenant Cloud-native SaaS; and 2) How to enable tenant-specific customization for multi-tenant Cloud-native SaaS. This paper suggests an approach for migrating monoliths to microservice-based Cloud-native SaaS, providing customers with a flexible customization opportunity, while taking advantage of the economies of scale that the Cloud and multi-tenancy provide. Our approach shows not only the migration to microservices but also how to introduce the necessary infrastructure to support the new services and enable tenant-specific customization. We illustrate the application of our approach on migrating a reference application of Microsoft called SportStore.
+AU  - Haugeland, S.G.
+AU  - Nguyen, P.H.
+AU  - Song, H.
+AU  - Chauvel, F.
+DO  - 10.1109/SEAA53835.2021.00030
+PY  - 2021
+SN  - 9781665427050
+SP  - 170
+EP  - 177
+TI  - Migrating Monoliths to Microservices-based Customizable Multi-tenant Cloud-native Apps
+T2  - Proceedings - 2021 47th Euromicro Conference on Software Engineering and Advanced Applications, SEAA 2021
+ER  -
+TY  - CONF
+AB  - Cloud computing provides convenient access to abstract computational resources over the Internet. In addition to common services like virtual machines, cloud providers are offering own proprietary domain-specific services and frameworks. The absence of common standards and interfaces makes it difficult to connect services of different clouds, migrate between them, or to distribute tasks across various providers. Extensive research in industry and academia has partially addressed the problem of vendor lock-in for cloud migration, however, no solutions are known to enable running applications in a dynamic multi-cloud infrastructure on a permanent basis. This paper describes state-of-the art of cloud infrastructure and considers the combined usage of multiple providers. It analyses approaches of multi-cloud usage that takes advantage of combining platform-specific features of different cloud providers.
+AU  - Caceres, A.
+AU  - Globa, L.
+DO  - 10.1109/TCSET55632.2022.9766965
+PY  - 2022
+SN  - 9781665468619
+SP  - 704
+EP  - 709
+TI  - State-of-the-Art Architectures for Interoperability of Heterogeneous Clouds
+T2  - Proceedings - 16th International Conference on Advanced Trends in Radioelectronics, Telecommunications and Computer Engineering, TCSET 2022
+ER  -
+TY  - JOUR
+AB  - The dynamic nature of the cloud environment increases the complexity of managing its resources and the distribution of user workload between the available containers in the data center. However, the workload must be balanced to improve the cloud system’s overall performance. Generally, most of the existing load balancing techniques suffer from performance degradation due to the communication overheads among the containers. Moreover, less attention is given to stabilize the load in a multi-cloud environment. Therefore, to overcome this problem, there is a need to develop an elastic load balancing method to improve the performance of cloud systems. This paper proposed an autonomic CSO-ILB load balancer to ensure the elasticity of the cloud system and balance the user workload among the available containers in a multi-cloud environment. The concept of multi-loop has been utilized in our approach to enabling efficient self-management before load balancing. The tasks are scheduled to the containers using an extended scheduling algorithm called Deadline-Constrained Make-span Minimization for Multi-Task Scheduling (DCMM-MTS). Based on the task scheduling, the load in each container is computed and then balanced using the proposed load balancer algorithm CSO-ILB. The proposed approach is evaluated in the Container CloudSim platform, and the performance is compared with the existing meta-heuristic algorithms such as Ant Colony Optimization, Bee Colony Optimization, Shuffled Frog Leaping Algorithm and Cat Swarm Optimization (CSO). The simulations proved that the proposed approach outperformed the other approaches in terms of reliability, CPU utilization, make-span, energy utilization, response time, execution cost, idle time, and task migration.
+AU  - Saif, M.A.N.
+AU  - Niranjan, S.K.
+AU  - Murshed, B.A.H.
+AU  - Ghanem, F.A.
+AU  - Ahmed, A.A.Q.
+DO  - 10.1007/s11227-022-04688-w
+PY  - 2022
+TI  - CSO-ILB: chicken swarm optimized inter-cloud load balancer for elastic containerized multi-cloud environment
+T2  - Journal of Supercomputing
+ER  -
+TY  - CONF
+AB  - This paper explores different strategies and tools for migrating non cloud-native or legacy applications to cloud. The approach taken involves studying the existing migration strategies and experimenting them on different types of non cloud-native applications to identify the strengths and challenges associated with each of them. Some of the commonly used platforms, tools and features currently available for supporting these migrations are also studied for their efficacy towards migration of the chosen applications. The paper concludes with a consolidated set of steps for each migration strategy, while factoring in the range of applications they are best suited for, considering their complexity and scope.
+AU  - Shastry, A.L.
+AU  - Nair, D.S.
+AU  - Prathima, B.
+AU  - Ramya, C.P.
+AU  - Hallymysore, P.
+DO  - 10.1109/CCWC54503.2022.9720856
+PY  - 2022
+SN  - 9781665483032
+SP  - 632
+EP  - 638
+TI  - Approaches for migrating non cloud-native applications to the cloud
+T2  - 2022 IEEE 12th Annual Computing and Communication Workshop and Conference, CCWC 2022
+UR  - https://ieeexplore-ieee-org.ez54.periodicos.capes.gov.br/document/9720856
+ER  -
+TY  - JOUR
+AU  - Maniah
+AU  - Soewito, Benfano
+AU  - Lumban Gaol, Ford
+AU  - Abdurachman, Edi
+DA  - 2022/6//
+DO  - 10.1016/j.jksuci.2021.01.008
+IS  - 6
+PY  - 2022
+SP  - 3111
+EP  - 3120
+TI  - A systematic literature Review: Risk analysis in cloud migration
+T2  - Journal of King Saud University - Computer and Information Sciences
+VL  - 34
+ER  -
+TY  - CONF
+AU  - Belafia, Romain
+AU  - Jeanjean, Pierre
+AU  - Barais, Olivier
+AU  - Guernic, Gurvan Le
+AU  - Combemale, Benoit
+DA  - 2021/10//
+DO  - 10.1109/MODELS-C53483.2021.00070
+PB  - IEEE
+PY  - 2021
+SN  - 978-1-6654-2484-4
+SP  - 454
+EP  - 463
+TI  - From Monolithic to Microservice Architecture: The Case of Extensible and Domain-Specific IDEs
+T2  - 2021 ACM/IEEE International Conference on Model Driven Engineering Languages and Systems Companion (MODELS-C)
+ER  -
+TY  - BOOK
+AB  - Many organizations migrate their on-premise software systems to the cloud. However, current coarse-grained cloud migration solutions have made a transparent migration of on-premise applications to the cloud a difficult, sometimes trial-and-error based endeavor. This paper suggests a catalogue of fine-grained service-based cloud architecture migration patterns that target multi-cloud settings and are specified with architectural notations. The proposed migration patterns are based on empirical evidence from a number of migration projects, best practices for cloud architectures and a systematic literature review of existing research. The pattern catalogue allows an organization to (1) select appropriate architecture migration patterns based on their objectives, (2) compose them to define a migration plan, and (3) extend them based on the identification of new patterns in new contexts.
+AU  - Jamshidi, P.
+AU  - Pahl, C.
+AU  - Chinenyeze, S.
+AU  - Liu, X.
+DO  - 10.1007/978-3-319-22885-3_2
+PY  - 2015
+SN  - 9783319228846
+SP  - 6
+EP  - 19
+TI  - Cloud migration patterns: A multi-cloud service architecture perspective
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 8954
+ER  -
+TY  - JOUR
+AB  - Background-By leveraging cloud services, organizations can deploy their software systems over a pool of resources. However, organizations heavily depend on their business-critical systems, which have been developed over long periods. These legacy applications are usually deployed on-premise. In recent years, research in cloud migration has been carried out. However, there is no secondary study to consolidate this research. Objective-This paper aims to identify, taxonomically classify, and systematically compare existing research on cloud migration. Method-We conducted a systematic literature review (SLR) of 23 selected studies, published from 2010 to 2013. We classified and compared the selected studies based on a characterization framework that we also introduce in this paper. Results-The research synthesis results in a knowledge base of current solutions for legacy-to-cloud migration. This review also identifies research gaps and directions for future research. Conclusion-This review reveals that cloud migration research is still in early stages of maturity, but is advancing. It identifies the needs for a migration framework to help improving the maturity level and consequently trust into cloud migration. This review shows a lack of tool support to automate migration tasks. This study also identifies needs for architectural adaptation and self-adaptive cloud-enabled systems.
+AU  - Jamshidi, P.
+AU  - Ahmad, A.
+AU  - Pahl, C.
+DO  - 10.1109/TCC.2013.10
+IS  - 2
+PY  - 2013
+SP  - 142
+EP  - 157
+TI  - Cloud Migration Research: A Systematic Review
+T2  - IEEE Transactions on Cloud Computing
+VL  - 1
+ER  -
+TY  - JOUR
+AB  - Moving mission-oriented enterprise software applications to cloud environments is a crucial IT task and requires a systematic approach. The foci of this paper is to provide a detailed review of extant cloud migration approaches from the perspective of the process model. To this aim, an evaluation framework is proposed and used to appraise and compare existing approaches for highlighting their features, similarities, and key differences. The survey distills the status quo and makes a rich inventory of important activities, recommendations, techniques, and concerns that are common in a typical cloud migration process in one place. This enables both academia and practitioners in the cloud computing community to get an overarching view of the process of the legacy application migration to the cloud. Furthermore, the survey identifies a number challenges that have not been yet addressed by existing approaches, developing opportunities for further research endeavours.
+AU  - Gholami, M.F.
+AU  - Daneshgar, F.
+AU  - Low, G.
+AU  - Beydoun, G.
+DO  - 10.1016/j.jss.2016.06.068
+PY  - 2016
+SP  - 31
+EP  - 69
+TI  - Cloud migration process—A survey, evaluation framework, and open challenges
+T2  - Journal of Systems and Software
+VL  - 120
+ER  -
+TY  - JOUR
+AB  - Many organizations migrate on-premise software applications to the cloud. However, current coarse-grained cloud migration solutions have made such migrations a non transparent task, an endeavor based on trial-and-error. This paper presents Variability-based, Pattern-driven Architecture Migration (V-PAM), a migration method based on (i) a catalogue of fine-grained service-based cloud architecture migration patterns that target multi-cloud, (ii) a situational migration process framework to guide pattern selection and composition, and (iii) a variability model to structure system migration into a coherent framework. The proposed migration patterns are based on empirical evidence from several migration projects, best practice for cloud architectures and a systematic literature review of existing research. Variability-based, Pattern-driven Architecture Migration allows an organization to (i) select appropriate migration patterns, (ii) compose them to define a migration plan, and (iii) extend them based on the identification of new patterns in new contexts. The patterns are at the core of our solution, embedded into a process model, with their selection governed by a variability model. Copyright © 2016 John Wiley & Sons, Ltd.
+AU  - Jamshidi, P.
+AU  - Pahl, C.
+AU  - Mendonça, N.C.
+DO  - 10.1002/spe.2442
+IS  - 9
+PY  - 2017
+SP  - 1159
+EP  - 1184
+TI  - Pattern-based multi-cloud architecture migration
+T2  - Software - Practice and Experience
+VL  - 47
+ER  -
+TY  - JOUR
+AB  - During the last decade, cloud computing became a natural choice to host and provide various computing resources as on-demand services. To better satisfy user requirements, cloud services may be combined while considering the constraints of the virtualized environment, including security policies, resources availability, and interoperability. Extensive surveys have been conducted to study the major issues related to the cloud service composition problem. However, very few works have studied such issues in a multicloud setting. To fill this gap, we provide in this paper a systematic literature review on multicloud service composition. We start with a background on service composition in single clouds. Then, we present the multicloud taxonomy, and we study how service composition was tackled by researchers in multicloud environments. Finally, we identify the challenges and the requirements of multicloud service composition, as well as the future directions.
+AU  - Lahmar, F.
+AU  - Mezni, H.
+DO  - 10.1002/smr.1947
+IS  - 10
+PY  - 2018
+TI  - Multicloud service composition: A survey of current approaches and issues
+T2  - Journal of Software: Evolution and Process
+VL  - 30
+ER  -
+TY  - JOUR
+AB  - Healthcare enterprises are starting to adopt cloud computing due to its numerous advantages over traditional infrastructures. This has become a necessity because of the increased volume, velocity and variety of healthcare data, and the need to facilitate data correlation and large-scale analysis. Cloud computing infrastructures have the power to offer continuous acquisition of data from multiple heterogeneous sources, efficient data integration, and big data analysis. At the same time, security, availability, and disaster recovery are critical factors aiding towards the adoption of cloud computing. However, the migration of healthcare workloads to cloud is not straightforward due to the vagueness in healthcare data standards, heterogeneity and sensitive nature of healthcare data, and many regulations that govern its usage. This paper highlights the need for providing healthcare data acquisition using cloud infrastructures and presents the challenges, requirements, use-cases, and best practices for building a state-of-the-art healthcare data ingestion service on cloud.
+AU  - Ranchal, R
+AU  - Bastide, P
+AU  - Wang, X
+AU  - Gkoulalas-Divanis, A
+AU  - Mehra, M
+AU  - Bakthavachalam, S
+AU  - Lei, H
+AU  - Mohindra, A
+DO  - 10.1109/JBHI.2020.3001518
+IS  - 11
+KW  - Biomedical imaging
+KW  - Cloud computing
+KW  - Informatics
+KW  - Interoperability
+KW  - Medical services
+KW  - Standards organizations
+KW  - electronic health record
+KW  - healthcare data ingestion
+KW  - healthcare information system
+PY  - 2020
+SP  - 3182
+EP  - 3188
+TI  - Disrupting Healthcare Silos: Addressing Data Volume, Velocity and Variety With a Cloud-Native Healthcare Data Ingestion Service
+T2  - IEEE Journal of Biomedical and Health Informatics
+UR  - https://ieeexplore-ieee-org.ez54.periodicos.capes.gov.br/document/9113446
+VL  - 24
+ER  -
+TY  - CONF
+AB  - Migrating business services to the clouds creates many high business risks such as "cloud vendor lock-in". One approach for preventing this risk is to deploy business services on different clouds as SaaS (i.e., Software as a Service) services. Unfortunately, such SaaS multi-cloud deployment approach faces many technical obstacles such as clouds heterogeneity and ensuring data consistency across different clouds. Cloud heterogeneity could be easily resolved using service adapters, but ensuring data consistency remains a major obstacle, as existing approaches offer a trade-off between correctness and performance. Hence, SaaS providers opt to choose one or more of these approaches at design time, then create their services based on the limitations of the chosen approaches. This approach limits the agility and evolution of business services, as it tightly couples them to the chosen data consistency approaches. To overcome such problem, this paper proposes SULTAN, a composite data consistency approach for SaaS multi-cloud deployment. It enables SaaS providers to dynamically define different data consistency requirements for the same SaaS service at run-time. SULTAN decouples the SaaS services from the cloud data stores, enabling services to adapt and migrate freely among clouds without any SaaS code modifications.
+AU  - Elgedawy, I
+DO  - 10.1109/UCC.2015.28
+KW  - Business
+KW  - Cloud computing
+KW  - Concurrency control
+KW  - Data Consistency
+KW  - Distributed databases
+KW  - Escrow
+KW  - Multi-Cloud
+KW  - NASEEB
+KW  - Protocols
+KW  - SULTAN
+KW  - SaaS
+KW  - Software as a service
+KW  - Wide area networks
+PY  - 2015
+SP  - 122
+EP  - 131
+TI  - SULTAN: A Composite Data Consistency Approach for SaaS Multi-cloud Deployment
+T2  - 2015 IEEE/ACM 8th International Conference on Utility and Cloud Computing (UCC)
+UR  - https://ieeexplore-ieee-org.ez54.periodicos.capes.gov.br/document/7431403
+ER  -
+TY  - CONF
+AB  - Computing systems are becoming increasingly virtual. We come from a world where applications were entirely developed by organizations for their own use, possibly exploiting components and/or platforms developed by third parties, but mainly deployed and executed on the organizations own IT facilities. With Service Oriented systems, we moved into a world in which a software application may delegate part of its functionality to already existing software services run by external organizations. Recent advances in Cloud computing are pushing virtuality even further: users can access third party software components, hardware physical resources or full application stacks that support execution and automatic management of Cloud based applications, and pay only for the resources they use. Cloud computing is growing daily, providing a vibrant technical environment where innovative solutions and services can be created. The Cloud promises the capability for cheap and flexible services for end-users and allows small organizations and individuals to host and offer world-scale services, themselves. However, while there has been substantial research in the field already, there still remain open challenges. Specifically, Cloud business models and technologies introduce critical issues, such as proprietary APIs and lack of interoperability [1]. The choice of the application architecture matching and fully exploiting the characteristics of the underlying Cloud environments is also critical [2], [3]. At the infrastructural layer, resource contentions lead to unpredictable performance [4] and additional work for resource management [5], automated VM and service migration [6] is still needed. Also networks are frequently the Cloud bottleneck and data center energy management is very critical [7]. To cope with such challenges the adoption of multi-Clouds [8], has been advocated by many researchers, since deploying software on multiple Clouds overcomes single provider unavailability and allows to build cost efficient follow the sun applications. Moreover, Cloud computing is also becoming a mainstream solution to provide very large clusters in a pay per use basis to support Big data applications [9]. Many cloud providers already include in their offering MapReduce based platforms (i.e., one of the most adopted framework to support large volume unstructured information processing) such as Google MapReduce framework, Microsoft HDinsight, and Amazon Elastic Compute Cloud. IDC estimates that by 2020, nearly 40% of Big Data analyses will be supported by public cloud. To support such challenges a Model-Driven Development (MDD) approach developed within the MODAClouds (www. modaclouds.eu) and DICE (dice-h2020.eu) European projects will be presented. MDD allows shifting the paradigm from code-centric to model-centric. Models are thus the main artefacts of the development process and enable developers to work at a high level of abstraction by focusing on Cloud concerns rather than implementation details [10]. Model transformations help automating the work of going from abstract concepts to implementation. Moreover, models can also be used to reason about the QoS properties of an application [2] and to support design-time exploration in order to identify the Cloud deployment configuration of minimum cost, while satisfying QoS constraints [3]. Finally, models can be kept alive also at runtime to trigger dynamic adaptation [10], [5], providing QoS guarantees even under workload fluctuations, virtualized systems performance degradations, or failures.
+AU  - Ardagna, D
+DO  - 10.1109/PESOS.2015.8
+KW  - Application portability
+KW  - Big data
+KW  - Cloud computing
+KW  - Conferences
+KW  - Model Driven Development
+KW  - Organizations
+KW  - Quality of Service
+KW  - Quality of service
+KW  - Resource management
+PY  - 2015
+SN  - 2156-793X
+SP  - 1
+EP  - 2
+TI  - Cloud and Multi-cloud Computing: Current Challenges and Future Applications
+T2  - 2015 IEEE/ACM 7th International Workshop on Principles of Engineering Service-Oriented and Cloud Systems
+UR  - https://ieeexplore-ieee-org.ez54.periodicos.capes.gov.br/document/7172841
+ER  -
+TY  - CONF
+AB  - In this paper, we tackle challenges in migrating enterprise services into hybrid cloud-based deployments, where enterprise operations are partly hosted on-premise and partly in the cloud. Such hybrid architectures enable enterprises to benefit from cloud-based architectures, while honoring application performance requirements, and privacy restrictions on what services may be migrated to the cloud. We make several contributions. First, we highlight the complexity inherent in enterprise applications today in terms of their multi-tiered nature, large number of application components, and interdependencies. Second, we have developed a model to explore the benefits of a hybrid migration approach. Our model takes into account enterprise-specific constraints, cost savings, and increased transaction delays and wide-area communication costs that may result from the migration. Evaluations based on real enterprise applications and Azure-based cloud deployments show the benefits of a hybrid migration approach, and the importance of planning which components to migrate. Third, we shed insight on security policies associated with enterprise applications in data centers. We articulate the importance of ensuring assurable reconfiguration of security policies as enterprise applications are migrated to the cloud. We present algorithms to achieve this goal, and demonstrate their efficacy on realistic migration scenarios. © 2010 ACM.
+AU  - Hajjat, M.
+AU  - Sun, X.
+AU  - Sung, Y.-W.E.
+AU  - Maltz, D.
+AU  - Rao, S.
+AU  - Sripanidkulchai, K.
+AU  - Tawarmalani, M.
+DO  - 10.1145/1851182.1851212
+PY  - 2010
+SN  - 9781450302012
+SP  - 243
+EP  - 254
+TI  - Cloudward bound: Planning for beneficial migration of enterprise applications to the cloud
+T2  - SIGCOMM'10 - Proceedings of the SIGCOMM 2010 Conference
+ER  -
+TY  - JOUR
+AB  - The migration towards Cloud environments is still hindered by several barriers. One of them is the low portability of the applications that are consuming Cloud services. This paper intends to provide an image of the state of the art in this particular topic and to identify the potential paths to follow in order to solve the problem. The main concerns are the portability reasons, scenarios, taxonomies, measurements, requirements, and current technical solutions (through open standards, open application programming interfaces, semantics and model-driven engineering). A research agenda is following the current analysis of the state of the art.
+AU  - Petcu, D.
+AU  - Vasilakos, A.V.
+DO  - 10.12694/scpe.v15i3.1019
+IS  - 3
+PY  - 2014
+SP  - 251
+EP  - 271
+TI  - Portability in clouds: Approaches and research opportunities
+T2  - Scalable Computing
+VL  - 15
+ER  -
+TY  - CONF
+AB  - The design of distributed systems in multiple clouds have been gaining popularity due to various benefits of the multi-cloud infrastructure such as minimizing vendor lock-in, data loss and downtime. Nonetheless, this multi-cloud infrastructure also poses several challenges such as compatibility, interoperability, complex provisioning and configuration due to the variation in technologies and services of each cloud provider. Consequently, it is a tedious task to design distributed systems in multiple clouds. Virtualization is regarded as the base technology of the cloud and therefore, most cloud-based distributed systems are based on it. Nevertheless, virtual machines require substantial resources and cause several issues across multiple clouds such as provisioning, configuration management, load balancing and migration. Docker Swarm is a container-based clustering tool that resolves some of these issues and supports the design of distributed systems in multiple clouds. It has also incorporated several inbuilt attributes of the distributed system, however, it is still evolving. This paper initially presents the simulated development of a Docker Swarm-based distributed system which can be easily replicated in multiple clouds. Subsequently, based on the simulated Docker Swarm-based distributed system, it performs an evaluation of several attributes of this distributed system such as high availability and fault tolerance; automatic scalability, load balancing and maintainability of services; and scalability of large clusters.
+AU  - Naik, N.
+DO  - 10.1109/SysCon48628.2021.9447123
+PY  - 2021
+SN  - 9781665444392
+TI  - Performance Evaluation of Distributed Systems in Multiple Clouds using Docker Swarm
+T2  - 15th Annual IEEE International Systems Conference, SysCon 2021 - Proceedings
+ER  -
+TY  - JOUR
+AB  - Developers and users situated in low-resource settings are faced with unique contextual and infrastructure challenges when accessing and consuming cloud-based services. In low-resource settings, access to cloud services and platforms is usually characterized by low-end computing devices and often unreliable and slow mobile broadband Internet connections. In this paper, we discuss key challenges for developing for and accessing cloud services in resource constrained settings, namely, (1) Frequent Internet partitions and bandwidth constraints, (2) Data jurisdiction restrictions, (3) Vendor lock-in, and (4) Poor quality of service. Inspired by these challenges, we propose a set of important design considerations and properties for a resilient multi-cloud service layer, that includes: (1) Containerization and orchestration of applications, (2) Application placement and replication, (3) Portability and multi-cloud migration, (4) Resilience to network partitions and bandwidth constraints, (5) Automated service discovery and load balancing, (6) Localized image registry, and (7) Support for platform monitoring and management. We present an implementation and validation case study, Crane Cloud, an open source multi-cloud service abstraction layer built on-top of Kubernetes that is designed with inherent support for resilience to network partitions, microservice orchestration (deployment, scaling and management of containerized applications), a localized image registry, support for migration of services between private and public clouds to avoid vendor lock-in issues and platform monitoring. We evaluate the performance and user experience of Crane Cloud by implementing and deploying a computational and bandwidth intensive machine learning system. The results show lower response times of the system on Crane Cloud compared with hosting on other public clouds. The Crane Cloud platform is serving as a cloud-service for students and developers in low-resource settings and also as an education platform for cloud computing.
+AU  - Bainomugisha, E.
+AU  - Mwotil, A.
+DO  - 10.1016/j.deveng.2022.100102
+PY  - 2022
+TI  - Crane Cloud: A resilient multi-cloud service abstraction layer for resource-constrained settings
+T2  - Development Engineering
+VL  - 7
+ER  -
+TY  - CONF
+AB  - Cloud Computing has become a popular IT service delivery model in recent years. While the cloud brings several benefits, there are still some challenges that need to be overcome to apply the cloud model in certain scenarios. One such problem is the so-called vendor lock-in since different cloud providers offer peculiar and often incompatible services, which results in the automatic migration impossibility of the application between cloud providers. This issue becomes even more problematic when thinking of future applications composed of services or components hosted by different cloud providers in a multi-cloud environment. Dealing with vendor lock-in in multiple clouds requires addressing two important challenges: interoperability and portability. Some solutions have been proposed to deal with both problems, but most of them fail to provide flexibility. Therefore, we propose PacificClouds, a novel architecture based on microservices for addressing interoperability in a multi-cloud environment. PacificClouds differs from previous works by providing greater flexibility due to the microservices architectural pattern. In this article, we also propose a definition of microservices and a comparative analysis of the works related to PacificClouds. Finally, we show the main challenges of PacificClouds, and we point out the future directions.
+AU  - De Carvalho, J.O.
+AU  - Trinta, F.
+AU  - Vieira, D.
+DO  - 10.5220/0006705604480455
+PY  - 2018
+SN  - 9789897582950
+SP  - 448
+EP  - 455
+TI  - PacificClouds: A flexible microservices based architecture for interoperability in multi-cloud environments
+T2  - CLOSER 2018 - Proceedings of the 8th International Conference on Cloud Computing and Services Science
+VL  - 2018-Janua
+ER  -
+TY  - JOUR
+AB  - In recent years, the cloud computing model has gained increasing attention and popularity in the field of information technology. For this reason, people are migrating their applications to public, private, or hybrid cloud environments. Many cloud vendors offer similar features with varying costs, so an appropriate choice will be the key to guraranteeing comparatively low operational costs for an organization. The motivation for this work is the necessity to select an appropriate cloud storage provider offering for the migration of applications with less cost and high performance. However, the selection of a suitable cloud storage provider is a complex problem that entails various technical and organizational aspects. In this research, a dynamic Decision Support System (DSS) for selection of an appropriate cloud storage provider is proposed. A web‐based application is implemented using PHP and MySQL to facilitate decision makers. The proposed mechanism has been optimized in a way that enables the system to address static database issues for which a user might not acquire the best solution. It focuses on comparing and ranking cloud storage providers by using two modules: scraping and parsing. The evaluation of the proposed system is carried out with appropriate test cases and compared with existing tools and frame-works.
+AU  - Mateen, A.
+AU  - Nam, S.Y.
+AU  - Haider, M.A.
+AU  - Hanan, A.
+DO  - 10.3390/app112311296
+IS  - 23
+PY  - 2021
+TI  - A dynamic decision support system for selection of cloud storage provider
+T2  - Applied Sciences (Switzerland)
+UR  - https://www.mdpi.com/1381328
+VL  - 11
+ER  -
+TY  - CONF
+AU  - Wright, Peter
+AU  - Harmer, Terence
+AU  - Hawkins, John
+AU  - Sun, Yih Leong
+DA  - 2011/7//
+DO  - 10.1109/CLOUD.2011.81
+PB  - IEEE
+PY  - 2011
+SN  - 978-1-4577-0836-7
+SP  - 590
+EP  - 597
+TI  - A Commodity-Focused Multi-cloud Marketplace Exemplar Application
+T2  - 2011 IEEE 4th International Conference on Cloud Computing
+ER  -
+TY  - CONF
+AB  - — Many organizations, driven by the need for greater productivity and lower costs, are moving their portfolio of applications to the cloud. However, there are many challenges in migrating an application to the cloud. That is, there are different aspects of an application that affect its cloud-migration feasibility. That is why assessing the feasibility of migrating an application to the cloud is not an easy task. Also, it is non-trivial to map which cloud solution - whether infrastructure as a service, platform as a service, or software as a service, should be used for hosting the application, if it is shown to be cloud-migration feasible. In this paper, we present a novel cloud-migration feasibility advisor that analyzes the meta data received about an application and evaluates whether it is feasible to move it to the cloud or not. In addition, the advisor uses dependency graphs and the aforementioned meta data to classify which cloud solution would suit best for the application, if it is deemed migration feasible.
+AU  - Asthana, S.
+AU  - Megahed, A.
+AU  - Iyoob, I.
+DO  - 10.1109/ICDCS47774.2020.00126
+PY  - 2020
+SN  - 9781728170022
+SP  - 1171
+EP  - 1172
+TI  - A cloud-migration feasibility advisor
+T2  - Proceedings - International Conference on Distributed Computing Systems
+UR  - https://ieeexplore.ieee.org/document/9355695
+VL  - 2020-Novem
+ER  -
