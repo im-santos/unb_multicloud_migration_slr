@@ -28,8 +28,9 @@ We search the documents with have in your Title, Abstract, or Keyword the follow
 ## Applying Paper Filters: Include and Exclude Criteria
 
 We include papers based on their Include Criteria:
-<br> <br>
-**IC1:** The documents must address the following subjects in their title, abstract, or keywords: 
+<br> 
+
+**IC1:** The documents must address the following subjects in their title, abstract, or keywords:  <br>
         - Multi-cloud   <br>
         - OR Cloud-Native  <br>
         - OR Cloud  <br>
@@ -42,7 +43,8 @@ We include papers based on their Include Criteria:
         - OR Challenges of System Deployments in Cloud Architecture  <br>
         - OR Microservices Architecture.  <br>
 <br>
-**IC2:** The publications should be written in English.
+
+**IC2:** The publications should be written in English. <br>
 
 We excluded papers based on their titles using the Exclusion Criteria: 
 <br><br>
