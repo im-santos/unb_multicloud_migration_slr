@@ -1,4 +1,13 @@
-# Multi-Cloud Migration: A Systematic Literature Review
+
+
+
+# Public Repository for the research  "Multi-Cloud Migration: A Systematic Literature Review"
+
+<hr>
+
+Objective: Experts agree that implementing a multi-cloud architecture can significantly benefit business applications. However, it is essential to keep in mind that some factors must be considered when implementing this architecture, as, if not observed, they can negatively impact the project. This work maps and examines the challenges technology teams face when migrating legacy applications to a multi-cloud architecture. In addition to identifying research opportunities around the subject of migrating legacy applications to multicloud architecture.
+
+Method: To do this, we perform a Systematic Literature Review of a large set of primary studies published to identify the research on this topic and analyze the data using Coding and Focused coding techniques. 
 
 
 ![Research Categories](files/img/research_categories.png "Research Categoies")
