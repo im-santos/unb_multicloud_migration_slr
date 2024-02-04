@@ -10,7 +10,7 @@
 **Method:** To do this, we perform a Systematic Literature Review of a large set of primary studies published to identify the research on this topic and analyze the data using Coding and Focused coding techniques. 
 
 
-![Research Categories](files/img/research_categories.png "Research Categoies")
+![Research Categories](files/img/method_research.png)
 
 
 
