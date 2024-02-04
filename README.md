@@ -36,7 +36,7 @@
 
 ## Questions & Comments
 
-Please contact ivon.miranda(AT)gmail.com in case of questions.
+Please contact ivon.miranda@gmail.com in case of questions.
 
 License and Software Information
 © Universidade de Brasília (UnB), Brazil
