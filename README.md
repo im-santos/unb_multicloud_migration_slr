@@ -13,13 +13,21 @@
 ![Research Categories](files/img/method_research.png)
 
 
-## Include and Exclude Criteria
+## Applying Paper Filters: Include and Exclude Criteria
 
-comming soon....
+We excluded papers based on their titles using the Exclusion Criteria: (1) "Improper source," (2) "Repeated," (3) "Studies not written in English," and (4) "Papers with less than three pages."
+<br>
+In the next phase, we read the abstracts and keywords of the collected papers. We removed those that the researched subject distanced from our research question. Moreover, we exclude works that:
+<br>
+  
+- Papers that do not explicitly discuss cloud migration. <br>
+- item Studies that in the form is not of a peer-reviewed paper.
+  
+<br>
 
-## Focus Coding
+<!-- ## Focus Coding
 
-comming soon...
+comming soon... -->
 
 ### Benefits and Challenges to Multi-Cloud Migration
 
