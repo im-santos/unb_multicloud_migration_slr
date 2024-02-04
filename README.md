@@ -9,6 +9,12 @@
 
 **Method:** To do this, we perform a Systematic Literature Review of a large set of primary studies published to identify the research on this topic and analyze the data using Coding and Focused coding techniques. 
 
+
+
+![Research Categories](files/img/method_research.png)
+
+
+
 ## Search documents
 
 We search the documents with have in your Title, Abstract, or Keyword the following query strings:
@@ -17,9 +23,7 @@ We search the documents with have in your Title, Abstract, or Keyword the follow
 - Hybridcloud
 - Cloud-Native
 - Systematic Review Literature
-
-![Research Categories](files/img/method_research.png)
-
+  
 
 ## Applying Paper Filters: Include and Exclude Criteria
 
