@@ -41,7 +41,7 @@ Please contact ivon.miranda(AT)gmail.com in case of questions.
 License and Software Information
 © Universidade de Brasília (UnB), Brazil
 
-UnB publishes this documentation subject to the terms of the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License** with the aim of helping the community with our knowledge which we think can be also useful for other people. You will find a copy of the CC BY-NC-SA license in the root folder of this package. All rights not explicitly granted to you under the CC BY-NC-SA license remain the sole and exclusive property of UPM.
+UnB publishes this documentation subject to the terms of the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License** with the aim of helping the community with our knowledge which we think can be also useful for other people. You will find a copy of the CC BY-NC-SA license in the root folder of this package. All rights not explicitly granted to you under the CC BY-NC-SA license remain the sole and exclusive property of UnB.
 
 ## License
 
