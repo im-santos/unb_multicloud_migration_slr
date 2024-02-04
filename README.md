@@ -36,7 +36,7 @@ comming soon... -->
 
 ## Benefits and Challenges to Multi-Cloud Migration Categories
 
-<br>
+   
 |  #  | Code                           | Quotations |     %     | Link  | 
 |:---:|:-------------------------------|:----------:|:---------:|:-----:|
 | 01  |CLOUD MANAGEMENT                |  880.00    |  19.32%   |   [page](files/01-CLOUD_MANAGEMENT.md)    |
