@@ -22,7 +22,6 @@ We excluded papers based on their titles using the Exclusion Criteria:
 (3) "Studies not written in English," and  <br>
 (4) "Papers with less than three pages." <br>
 
-<br>
 In the next phase, we read the abstracts and keywords of the collected papers. We removed those that the researched subject distanced from our research question. Moreover, we exclude works that:
 <br>
   
@@ -35,7 +34,7 @@ In the next phase, we read the abstracts and keywords of the collected papers. W
 
 comming soon... -->
 
-### Benefits and Challenges to Multi-Cloud Migration
+### Benefits and Challenges to Multi-Cloud Migration Categories
 
 |  #  | Code                           | Quotations |     %     | Link  | 
 |:---:|:-------------------------------|:----------:|:---------:|:-----:|
