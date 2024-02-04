@@ -9,11 +9,36 @@
 
 **Method:** To do this, we perform a Systematic Literature Review of a large set of primary studies published to identify the research on this topic and analyze the data using Coding and Focused coding techniques. 
 
+## Search documents
+
+We search the documents with have in your Title, Abstract, or Keyword the following query strings:
+<br>
+- Multi-Cloud 
+- Hybridcloud
+- Cloud-Native
+- Systematic Review Literature
 
 ![Research Categories](files/img/method_research.png)
 
 
 ## Applying Paper Filters: Include and Exclude Criteria
+
+We include papers based on their Include Criteria:
+<br>
+IC1: The documents must address the following subjects in their title, abstract, or keywords: 
+        - Multi-cloud  
+        - OR Cloud-Native 
+        - OR Cloud 
+        - OR Private cloud 
+        - OR Hybrid Cloud 
+        - OR Migration Between Clouds 
+        - OR Challenges of Deployment in Clouds 
+        - OR Migration from Legacy Systems to Cloud 
+        - OR Transformation from Legacy Systems to Cloud 
+        - OR Challenges of System Deployments in Cloud Architecture 
+        - OR Microservices Architecture.
+<br>
+IC2: The publications should be written in English.
 
 We excluded papers based on their titles using the Exclusion Criteria: 
 <br><br>
