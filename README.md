@@ -13,7 +13,13 @@
 ![Research Categories](files/img/method_research.png)
 
 
+## Include and Exclude Criteria
 
+comming soon....
+
+## Focus Coding
+
+comming soon...
 
 ### Benefits and Challenges to Multi-Cloud Migration
 
