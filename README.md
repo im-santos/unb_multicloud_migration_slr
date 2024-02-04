@@ -16,7 +16,7 @@
 ## Applying Paper Filters: Include and Exclude Criteria
 
 We excluded papers based on their titles using the Exclusion Criteria: 
-<br>
+<br><br>
 (1) "Improper source," <br>
 (2) "Repeated," <br>
 (3) "Studies not written in English," and  <br>
@@ -34,8 +34,9 @@ In the next phase, we read the abstracts and keywords of the collected papers. W
 
 comming soon... -->
 
-### Benefits and Challenges to Multi-Cloud Migration Categories
+## Benefits and Challenges to Multi-Cloud Migration Categories
 
+<br>
 |  #  | Code                           | Quotations |     %     | Link  | 
 |:---:|:-------------------------------|:----------:|:---------:|:-----:|
 | 01  |CLOUD MANAGEMENT                |  880.00    |  19.32%   |   [page](files/01-CLOUD_MANAGEMENT.md)    |
