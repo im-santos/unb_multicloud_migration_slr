@@ -11,7 +11,7 @@
 
 
 
-![Research Categories](files/img/method_research.png)
+![Research Categories](files/img/fig_28-conducting_review.png)
 
 
 
