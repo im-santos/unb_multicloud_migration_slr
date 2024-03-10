@@ -61,6 +61,9 @@ In the next phase, we read the abstracts and keywords of the collected papers. W
   
 <br>
 
+Upon completing the aforementioned steps, we successfully narrowed down our [selection to fifty pivotal articles](files/UnB-Multi-Cloud-SLR-Selected_papers_for_beginning_research.pdf) selection to fifty pivotal articles. 
+These were then advanced to the subsequent phase for in-depth data analysis and synthesis.
+
 <!-- ## Focus Coding
 
 comming soon... -->
